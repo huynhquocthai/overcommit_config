@@ -1,0 +1,5 @@
+PreCommit:
+  RuboCop:
+    enabled: true
+    required: false
+    required_executable: './bin/custom-rubocop-script'
