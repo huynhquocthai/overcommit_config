@@ -1,1 +1,1 @@
-rubocop -f html -o `date +\%Y\%m\%d\%H\%M`-rubocop.html
+rubocop -D -f html -o `date +\%Y\%m\%d\%H\%M`-rubocop.html

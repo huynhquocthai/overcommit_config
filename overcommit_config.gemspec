@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = 'overcommit_config'
-  s.version     = '0.1.4'
-  s.date        = '2017-10-30'
+  s.version     = '0.1.5'
+  s.date        = '2017-11-01'
   s.summary     = "Overcommit config generator for integrating PreCommit with RuboCop"
   s.description = "A simple gem to generate default config for Overcommit"
   s.authors     = ["Thai Huynh"]
